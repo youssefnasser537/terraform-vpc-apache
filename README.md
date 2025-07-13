@@ -8,11 +8,6 @@ This project provisions a simple AWS infrastructure using **Terraform**, includi
 - A **Security Group** allowing inbound SSH (22) and HTTP (80)
 - An **EC2 instance** running **Apache HTTP server**
 
----
-
-## 📸 Screenshot (Terraform Output)
-
-![Terraform Plan Output](images/vpc-output.png)
 
 ---
 
